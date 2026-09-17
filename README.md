@@ -1,22 +1,54 @@
-<!-- ==================== BANNER & BAŞLIK ==================== -->
+<!-- ==================== BANNER & BAŞLIK (MONOCHROME) ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hey,%20I'm%20xenover1991%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:181818,100:050505&height=220&section=header&text=xenover1991&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="xenover1991 Banner" width="100%"/>
 </p>
-<!-- Typing SVG -->
+<!-- Typing SVG (Beyaz / Gri Ton) -->
 <p align="center">
   <a href="https://github.com/xenover1991">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E0E0E0&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;TypeScript+%26+Vencord;Vibe+Coding..." alt="Typing SVG" />
   </a>
 </p>
+<!-- Ziyaretçi Sayacı (Siyah & Beyaz) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xenover1991&label=Profil+Ziyareti&color=00f5ff&style=flat-square" alt="Ziyaretçi Sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=xenover1991&label=PROFILE+VIEWS&color=000000&labelColor=1a1a1a&style=for-the-badge" alt="Profil Ziyareti" />
 </p>
----
-<!-- ==================== HAKKIMDA ==================== -->
-### ⚡ Hakkımda
-```yaml
-name: xenover1991
-role: Developer
-location: Germany
-interests: [Vibe Coding, Typescript, Vencord]
+
+<hr style="border: none; border-top: 1px solid #222;" />
+
+<!-- ==================== HAKKIMDA (DÜZELTİLMİŞ & HİZALI) ==================== -->
+<h3 align="center">✦ &nbsp; H A K K I M D A &nbsp; ✦</h3>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="left">👤 <b>Kullanıcı</b></td>
+      <td align="left"><code>xenover1991</code></td>
+    </tr>
+    <tr>
+      <td align="left">💼 <b>Rol</b></td>
+      <td align="left"><code>Developer</code></td>
+    </tr>
+    <tr>
+      <td align="left">📍 <b>Konum</b></td>
+      <td align="left">Germany 🇩🇪</td>
+    </tr>
+    <tr>
+      <td align="left">⚡ <b>İlgi Alanları</b></td>
+      <td align="left"><code>Vibe Coding</code> • <code>TypeScript</code> • <code>Vencord</code></td>
+    </tr>
+    
+
+  </table>
+</div>
+
+<br/>
+
+<!-- Siyah-Beyaz Rozetler -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NAME-xenover1991-ffffff?style=for-the-badge&logoColor=black&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/ROLE-Developer-ffffff?style=for-the-badge&logoColor=black&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-Germany-ffffff?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+</p>
+
+<hr style="border: none; border-top: 1px solid #222;" />
 
