@@ -1,7 +1,8 @@
 <!-- ==================== BANNER & BAŞLIK (MONOCHROME) ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:181818,100:050505&height=220&section=header&text=xenover1991&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="xenover1991 Banner" width="100%"/>
+  <img src="banner_psycho.png" alt="XENOVER1991" width="100%" />
 </p>
+
 <!-- Typing SVG (Beyaz / Gri Ton) -->
 <p align="center">
   <a href="https://github.com/xenover1991">
@@ -21,19 +22,19 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="left">👤 <b>Kullanıcı</b></td>
+      <td align="left"><b>User</b></td>
       <td align="left"><code>xenover1991</code></td>
     </tr>
     <tr>
-      <td align="left">💼 <b>Rol</b></td>
+      <td align="left"><b>Role</b></td>
       <td align="left"><code>Developer</code></td>
     </tr>
     <tr>
-      <td align="left">📍 <b>Konum</b></td>
+      <td align="left"><b>Location</b></td>
       <td align="left">Germany 🇩🇪</td>
     </tr>
     <tr>
-      <td align="left">⚡ <b>İlgi Alanları</b></td>
+      <td align="left"><b>Hobbies</b></td>
       <td align="left"><code>Vibe Coding</code> • <code>TypeScript</code> • <code>Vencord</code></td>
     </tr>
     
